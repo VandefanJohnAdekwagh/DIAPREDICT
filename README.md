@@ -183,7 +183,7 @@ Potential improvements include:
 
 **Vandefan John Adekwagh**
 
-Developed as part of an Artificial Intelligence and Machine Learning training project at Topbita Computer Training School.
+Developed as part of an Artificial Intelligence and Machine Learning training project at Torbita Computer Training School.
 
 ---
 
